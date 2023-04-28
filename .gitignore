@@ -1,0 +1,17 @@
+# Environment
+.python-version
+env/
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Tools artifacts
+.mypy_cache/
+.pytest_cache/
+
+# Misc
+*.svg
+*.ipynb
+.idea
+test.txt
